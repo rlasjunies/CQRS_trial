@@ -66,3 +66,38 @@ C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountMan
 C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager\obj\Debug\AccountManager.pdb
 C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager\obj\Debug\AccountManager.csprojResolveAssemblyReference.cache
 C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager\bin\res\images\painting1.jpg
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\res\images\painting1.jpg
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\Newtonsoft.Json.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Data.SQLite.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Net.Http.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Net.Http.WebRequest.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Helpers.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Http.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Mvc.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Razor.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.WebPages.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\Newtonsoft.Json.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Data.SQLite.pdb
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Net.Http.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Net.Http.WebRequest.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Helpers.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Http.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Mvc.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.Razor.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.WebPages.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\obj\Debug\AccountManager.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\AccountManager.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\AccountManager.pdb
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\AccountManager.dll.CodeAnalysisLog.xml
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\bin\AccountManager.dll.lastcodeanalysissucceeded
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\obj\Debug\AccountManager.dll
+C:\Users\Richard\Documents\GitHub\CPL_dynamic\AccountManager\obj\Debug\AccountManager.pdb

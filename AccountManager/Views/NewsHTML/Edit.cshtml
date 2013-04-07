@@ -1,4 +1,4 @@
-﻿@model AccountManager.Models.News.ReadModel.NewsModel
+﻿@model AccountManager.Models.RazorContext
 
 @{
     ViewBag.Title = "News edit";
@@ -9,23 +9,24 @@
 	<h1>Edit</h1>
 </div>
 <form action="/newshtml/update" method="post">
-    <h2>@Model.Title</h2>
+    <h2>@Model.NewsModel.Title</h2>
 
-    <div data-role="fieldcontain" class="ui-hide-label">
+    <input type="hidden" name="id" value="@Model.NewsModel.Id">
+    <div data-role="fieldcontain" >
 	    <label for="title">Title:</label>
-	    <input type="text" name="title" id="title" value="@Model.Title" placeholder="title"/>
+	    <input type="text" name="title" id="title" value="@Model.NewsModel.Title" placeholder="title"/>
     </div>
 
-    <div data-role="fieldcontain" class="ui-hide-label">
+    <div data-role="fieldcontain" >
 	    <label for="summary">Summary:</label>
-	    <input type="text" name="summary" id="summary" value="@Model.Summary" placeholder="summary"/>
+	    <input type="text" name="summary" id="summary" value="@Model.NewsModel.Summary" placeholder="summary"/>
     </div>
 
-    <div data-role="fieldcontain" class="ui-hide-label">
+    <div data-role="fieldcontain" >
 	    <label for="content">Content:</label>
-	    <input type="text" name="content" id="content" value="@Model.Content" placeholder="Content"/>
+	    <input type="text" name="content" id="content" value="@Model.NewsModel.Content" placeholder="Content"/>
     </div>
 
     <a href="/newshtml/index" data-role="button" data-mini="true" data-inline="true">Cancel</a>   
-    <a href="/newshtml/update/@Model.Id" data-role="button" data-mini="true" data-inline="true">Update</a>   
+    <button type="submit" data-role="button" data-mini="true" data-inline="true">Update</button>
 </form>

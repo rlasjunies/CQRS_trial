@@ -1,4 +1,4 @@
-﻿@model AccountManager.Models.News.ReadModel.NewsModel
+﻿@model AccountManager.Models.RazorContext
 
 @{
     ViewBag.Title = "More actions";
@@ -9,8 +9,8 @@
 	<h1>More option</h1>
 </div>
 <div data-role="content">
-    <a href="/newshtml/deleteconfirmation/@Model.Id" data-role="button" data-rel="dialog"  data-transition="pop" data-icon="delete">Delete</a> 
-    <a href="/newshtml/edit/@Model.Id" data-role="button" data-rel="dialog"  data-icon="gear">Edit</a> 
-	<a href="/newshtml/publish/@Model.Id" data-role="button" data-rel="dialog"  data-icon="gear">Publish/Unpublish</a>
+    <a href="/newshtml/deleteconfirmation/@Model.NewsModel.Id"  data-role="button" data-rel="dialog"  data-transition="pop" data-icon="delete">Delete</a> 
+    <a href="/newshtml/edit/@Model.NewsModel.Id" data-role="button" data-rel="dialog"  data-icon="gear">Edit</a> 
+	<a href="/newshtml/publish/@Model.NewsModel.Id" data-role="button" data-rel="dialog"  data-icon="gear">Publish/Unpublish</a>
 </div> 	
  	

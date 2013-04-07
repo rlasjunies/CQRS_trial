@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@model AccountManager.Models.RazorContext
+<!DOCTYPE html>
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,23 +13,39 @@
 </head>
 <body>
     <div data-role="page" data-theme="a">          
-
-        <div data-role="header" id="CPLHeader" data-position="fixed" data-id="CPL">
-            <span id="log"></span>
-            <a href="/newshtml/index" data-role="button" data-icon="home" data-iconpos="notext" data-inline="true">Home</a>
-            <h1>Corinne Païre Lasjunies's website</h1>
-            <a href="/emailMe.html" data-rel="dialog" data-transition="slide" class="ui-btn-right">email Me</a>
-        </div>
+        <div class="ui-bar-a ui-header" data-role="header" id="CPLHeader" data-position="fixed">
+		    <h1 aria-level="1" role="heading" tabindex="0" class="ui-title">Corinne Païre Lasjunies's website</h1>
+            <a data-theme="a" href="/newshtml/index" data-icon="home" class="ui-btn-left ui-btn ui-btn-icon-left ui-btn-corner-all ui-shadow ui-btn-up-a"><span class="ui-btn-inner ui-btn-corner-all"><span class="ui-btn-text">Home</span><span class="ui-icon ui-icon-home ui-icon-shadow"></span></span></a>
+            <a data-theme="a" href="/emailMe.html" data-rel="dialog" data-icon="gear" class="ui-btn-right ui-btn ui-btn-icon-left ui-btn-corner-all ui-shadow ui-btn-up-a"><span class="ui-btn-inner ui-btn-corner-all"><span class="ui-btn-text">email Me</span><span class="ui-icon ui-icon-gear ui-icon-shadow"></span></span></a>
+            
+		    @if (@Model.logged)
+                {		
+		            <div role="navigation" class="ui-navbar ui-navbar-noicons" data-role="navbar">
+			            <ul class="ui-grid-b">
+				            <li class="ui-block-a"><a class="ui-btn ui-btn-up-a" data-theme="a" href="/newshtml/CreateNews" data-rel="dialog"><span class="ui-btn-inner"><span class="ui-btn-text">Add</span></span></a></li>
+				            <li class="ui-block-b"><a class="ui-btn ui-btn-up-a" data-theme="a" href="#"><span class="ui-btn-inner"><span class="ui-btn-text">Two</span></span></a></li>
+				            <li class="ui-block-c"><a class="ui-btn ui-btn-up-a" data-theme="a" href="#"><span class="ui-btn-inner"><span class="ui-btn-text">Three</span></span></a></li>
+                            <li class="ui-block-c"><a class="ui-btn ui-btn-up-a" data-theme="a" href="#"><span class="ui-btn-inner"><span class="ui-btn-text">Four</span></span></a></li>
+                            <li class="ui-block-c"><a class="ui-btn ui-btn-up-a" data-theme="a" href="#"><span class="ui-btn-inner"><span class="ui-btn-text">Five</span></span></a></li>
+			            </ul>
+		            </div><!-- /navbar -->
+                }
+            else
+            {
+                //nothing
+            }
+        </div>       
 
         @RenderBody()
 
         <div data-role="footer" data-id="CPL-footer" data-position="fixed">
             <div data-role="navbar">
                 <ul>
-                    <li><a href="/aboutme" data-icon="info" data-iconpos="left">Biographie</a></li>
-                    <li><a href="/gallery" data-iconpos="left" data-icon="grid">Galerie</a></li>
-                    <li><a href="/interiordesign" data-icon="home" data-iconpos="left">Architecture d'intérieur</a></li>
-                    <li><a href="/news" data-icon="alert" data-iconpos="left">Evènements</a></li>
+                    <li><a href="/newshtml/biographie" data-icon="info" data-iconpos="left">Biographie</a></li>
+                    <li><a href="/newshtml/index" data-icon="grid" data-iconpos="left" >Galerie</a></li>
+                    <li><a href="/newshtml/archi" data-icon="home" data-iconpos="left">Architecture d'intérieur</a></li>
+                    <li><a href="/newshtml/events" data-icon="alert" data-iconpos="left">Evènements</a></li>
+                    <li><a href="/newshtml/login" data-icon="gear" data-iconpos="left" data-rel="dialog">Login</a></li>
                 </ul>
             </div>
         </div>

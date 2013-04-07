@@ -32,6 +32,12 @@ namespace MTG.Core
             return Config;
         }
 
+        private static readonly AccountManager.Models.RazorContext _Context = new AccountManager.Models.RazorContext();
+        public static AccountManager.Models.RazorContext Context()
+        {
+            return _Context;
+        }
+
         private Configuration()
         {
     /* bus intialisation */

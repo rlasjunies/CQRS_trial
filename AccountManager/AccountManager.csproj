@@ -137,6 +137,7 @@
     <Compile Include="Models\Account\Commands\UnlockAccountCommand.cs" />
     <Compile Include="Models\Account\Domain\Account.cs" />
     <Compile Include="Models\Account\Domain\AccountApplicationService.cs" />
+    <Compile Include="Models\RazorContext.cs" />
     <Compile Include="Models\News\Commands\DeleteNewsCommand.cs" />
     <Compile Include="Models\News\Commands\PublishNewsCommand.cs" />
     <Compile Include="Models\News\Commands\UnpublishNewsCommand.cs" />
@@ -164,6 +165,7 @@
     <Compile Include="Models\News\ReadModel\NewsReadModelFacade.cs" />
     <Compile Include="Models\News\ReadModel\NewsModel.cs" />
     <Compile Include="Models\News\ReadModel\NewsProjection.cs" />
+    <Compile Include="Models\UI\Commands\CreateNewsCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WebServices\test.aspx.cs">
       <DependentUpon>test.aspx</DependentUpon>
@@ -248,6 +250,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\NewsHTML\DeleteConfirmation.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\NewsHTML\Login.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

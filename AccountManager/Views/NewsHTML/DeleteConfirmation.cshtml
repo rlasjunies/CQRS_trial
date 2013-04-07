@@ -1,4 +1,4 @@
-﻿@model AccountManager.Models.News.ReadModel.NewsModel
+﻿@model AccountManager.Models.RazorContext
 
 @{
     ViewBag.Title = "Confirm deletion";
@@ -15,5 +15,5 @@
     <p></p>
     <p></p>
     <a href="#" data-role="button" data-mini="true" data-inline="true" data-rel="back">Cancel</a>   
-    <a href="/newshtml/delete/@Model.Id" data-role="button" data-mini="true" data-inline="true">Delete</a>   
+    <a href="/newshtml/delete/@Model.NewsModel.Id" data-role="button" data-mini="true" data-inline="true">Delete</a>   
 </form>
