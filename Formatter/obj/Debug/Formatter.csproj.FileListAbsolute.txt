@@ -1,0 +1,66 @@
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Formatter.exe.config
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Formatter.exe
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Formatter.pdb
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\AccountManager.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\AccountManager.Tests.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\nunit.framework.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Data.SQLite.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Newtonsoft.Json.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Web.Http.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Web.Http.WebHost.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Net.Http.Formatting.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\AccountManager.Tests.pdb
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\AccountManager.pdb
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\nunit.framework.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Data.SQLite.pdb
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Newtonsoft.Json.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Web.Http.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Web.Http.WebHost.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Net.Http.Formatting.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\obj\Debug\Formatter.csprojResolveAssemblyReference.cache
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\obj\Debug\Formatter.exe
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\obj\Debug\Formatter.pdb
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Formatter.exe.config
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Formatter.exe
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Formatter.pdb
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\AccountManager.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\AccountManager.Tests.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\nunit.framework.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Data.SQLite.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Web.Http.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\AccountManager.Tests.pdb
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\AccountManager.pdb
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\nunit.framework.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Web.Http.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\obj\Debug\Formatter.csprojResolveAssemblyReference.cache
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\obj\Debug\Formatter.exe
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\Formatter\obj\Debug\Formatter.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\Formatter.exe.config
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\Formatter.exe
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\Formatter.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\AccountManager.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\AccountManager.Tests.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\nunit.framework.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\System.Data.SQLite.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\System.Web.Http.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\AccountManager.Tests.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\AccountManager.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\nunit.framework.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\System.Web.Http.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\obj\Debug\Formatter.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\obj\Debug\Formatter.exe
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\obj\Debug\Formatter.pdb

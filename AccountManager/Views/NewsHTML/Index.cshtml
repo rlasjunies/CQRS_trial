@@ -1,0 +1,23 @@
+﻿@model List<AccountManager.Models.News.ReadModel.NewsModel>
+@{
+    ViewBag.Title = "Corinne Païre Lasjunies's website";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<a href="/newshtml/CreateNews" data-role="button" data-icon="plus" data-iconpos="notext" data-inline="true">Post a news</a>
+<div data-role="content">
+	<ul data-role="listview" data-filter="true" data-split-icon="gear" data-inset="true">
+        @foreach (var m in Model)
+        {
+            <li>
+                <!-- @Html.ActionLink(m.Title, "edit", new { Id = m.Id })-->
+                <a href="/newshtml/edit/@m.Id">
+                    <img src="../../res/images/painting1.jpg">
+                    <h1>@m.Title</h1>
+                    <p>@m.Summary</p>
+                </a>
+                <a href="/newshtml/actions/@m.Id" data-rel="dialog" data-transition="pop">options</a>
+                    
+            </li>
+        }
+	</ul>
+</div>

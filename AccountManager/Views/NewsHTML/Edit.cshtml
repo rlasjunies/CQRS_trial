@@ -1,0 +1,31 @@
+﻿@model AccountManager.Models.News.ReadModel.NewsModel
+
+@{
+    ViewBag.Title = "News edit";
+    Layout = "~/Views/Shared/_DialogLayout.cshtml";
+}
+
+<div data-role="header">
+	<h1>Edit</h1>
+</div>
+<form action="/newshtml/update" method="post">
+    <h2>@Model.Title</h2>
+
+    <div data-role="fieldcontain" class="ui-hide-label">
+	    <label for="title">Title:</label>
+	    <input type="text" name="title" id="title" value="@Model.Title" placeholder="title"/>
+    </div>
+
+    <div data-role="fieldcontain" class="ui-hide-label">
+	    <label for="summary">Summary:</label>
+	    <input type="text" name="summary" id="summary" value="@Model.Summary" placeholder="summary"/>
+    </div>
+
+    <div data-role="fieldcontain" class="ui-hide-label">
+	    <label for="content">Content:</label>
+	    <input type="text" name="content" id="content" value="@Model.Content" placeholder="Content"/>
+    </div>
+
+    <a href="/newshtml/index" data-role="button" data-mini="true" data-inline="true">Cancel</a>   
+    <a href="/newshtml/update/@Model.Id" data-role="button" data-mini="true" data-inline="true">Update</a>   
+</form>

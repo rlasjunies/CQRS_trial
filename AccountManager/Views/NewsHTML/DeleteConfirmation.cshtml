@@ -1,0 +1,19 @@
+﻿@model AccountManager.Models.News.ReadModel.NewsModel
+
+@{
+    ViewBag.Title = "Confirm deletion";
+    Layout = "~/Views/Shared/_DialogLayout.cshtml";
+}
+
+<div data-role="header">
+	<h1>Confirm deletion</h1>
+</div>
+<form action="/newshtml/delete" method="post">
+    <h1> confirm the deletion of:</h1>
+    <p></p> 
+    <h2>@Model.Title</h2>
+    <p></p>
+    <p></p>
+    <a href="#" data-role="button" data-mini="true" data-inline="true" data-rel="back">Cancel</a>   
+    <a href="/newshtml/delete/@Model.Id" data-role="button" data-mini="true" data-inline="true">Delete</a>   
+</form>

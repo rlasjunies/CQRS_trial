@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>CompareNETObjects</id>
+    <version>1.4.2.0</version>
+    <title>Compare .NET Objects</title>
+    <authors>gfinzer</authors>
+    <owners>gfinzer</owners>
+    <licenseUrl>http://comparenetobjects.codeplex.com/license</licenseUrl>
+    <projectUrl>http://comparenetobjects.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Features
+
+* Compare Primitive Types
+* Compare Structs
+* Compare IList Objects
+* Compare Single and Multi-Dimensional Arrays
+* Compare IDictionary Objects
+* Compare Publicly visible Class Fields and Properties
+* Compare Children
+* Handling for Trees with Children Pointing To Parents
+* Compare Enums
+* Compare Timespans
+* Compare Guids
+* Compare Classes that Implement IList with Indexers
+* Compare DataSet Data
+* Compare DataTable Data
+* Compare DataRow Data
+* Compare LinearGradient
+* Compare HashSet
+* Compare URI
+* Compare Types of Type (RuntimeType)
+* Source code in both C# and in VB.NET
+* NUnit Test Project Included
+* Ability to load settings from a config file for use with powershell
+* Several configuration options for comparing private elements, and ignoring specific elements.
+* Property and Field Info reflection caching for increased performance</description>
+    <summary>What you have been waiting for. Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.</summary>
+    <releaseNotes>Ability to load settings from the a config file
+Ability to Ignore Object Types
+Ability to compare LinearGradient
+Ability to use with Silverlight
+Ability to use with Windows Phone 7
+Ability to compare Types of Type (RuntimeType)
+Ability to compare HashSets
+Ability to compare URI
+Show type names in the differences string</releaseNotes>
+    <tags>compare comparison objects difference</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework3.5" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+    <references />
+  </metadata>
+</package>

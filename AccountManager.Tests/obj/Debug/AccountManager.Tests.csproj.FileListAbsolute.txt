@@ -1,0 +1,57 @@
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.Tests.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.Tests.pdb
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\nunit.framework.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Data.SQLite.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.pdb
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\nunit.framework.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Data.SQLite.pdb
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\obj\Debug\AccountManager.Tests.csprojResolveAssemblyReference.cache
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\obj\Debug\AccountManager.Tests.dll
+D:\My\Skydrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\obj\Debug\AccountManager.Tests.pdb
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.Tests.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.Tests.pdb
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.pdb
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\obj\Debug\AccountManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\obj\Debug\AccountManager.Tests.dll
+C:\Users\Richard\SkyDrive\Documents\aspConf-cqrs-master\AccountManager\AccountManager.Tests\obj\Debug\AccountManager.Tests.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.Tests.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.Tests.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\AccountManager.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\obj\Debug\AccountManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\obj\Debug\AccountManager.Tests.dll
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\AccountManager.Tests\obj\Debug\AccountManager.Tests.pdb
