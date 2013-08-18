@@ -14,17 +14,32 @@ namespace MTG.Core
 {
     public class Configuration
     {
-    /* application bus */        
-        private readonly MessageBus _bus;
-        public MessageBus Bus { get { return _bus; } }
-        
-    /* account domain init */
-        private readonly AccountReadModelFacade _AccountReadModel;
-        public AccountReadModelFacade AccountReadModel { get { return _AccountReadModel; } }
+        /* in memory event store */
+        private Dictionary<object, List<object>> inMemDict = new Dictionary<object, List<object>>();
 
-    /* news domain init */
+        /* application bus */        
+        private readonly MessageBus _bus;
+        public MessageBus Bus { 
+            get { 
+                return _bus; 
+            } 
+        }
+        
+        /* account domain init */
+        private readonly AccountReadModelFacade _AccountReadModel;
+        public AccountReadModelFacade AccountReadModel { 
+            get { 
+                return _AccountReadModel; 
+            } 
+        }
+
+        /* news domain init */
         private readonly NewsReadModelFacade _NewsReadModel;
-        public NewsReadModelFacade NewsReadModel { get { return _NewsReadModel; } }
+        public NewsReadModelFacade NewsReadModel { 
+            get { 
+                return _NewsReadModel; 
+            } 
+        }
 
         private static readonly Configuration Config = new Configuration();
         public static Configuration Instance()
@@ -43,7 +58,8 @@ namespace MTG.Core
     /* bus intialisation */
             _bus = new MessageBus();
             //var eventStore = new SqlServerEventStore(_bus);
-            var eventStore = new SqlLiteEventStore(_bus);
+            //var eventStore = new SqlLiteEventStore(_bus);
+            var eventStore = new InMemoryEventStore(_bus, inMemDict );
             var repository = new DomainRepository(eventStore);
 
     /* Account Domain */
@@ -71,7 +87,9 @@ namespace MTG.Core
             _AccountReadModel = new AccountReadModelFacade(balanceProjection, infoProjection, notification);
 
     /*  News Domain*/
-            var newsEventStore = new SqlLiteEventStore(_bus);
+            //var newsEventStore = new SqlServerEventStore(_bus); 
+            //var newsEventStore = new SqlLiteEventStore(_bus);
+            var newsEventStore = new InMemoryEventStore(_bus, inMemDict); 
             var newsRepository = new DomainRepository(eventStore);
 
             /* Register command on the News bounded context */

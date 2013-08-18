@@ -119,6 +119,8 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\BiographieController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\NewsJSONController.cs" />
     <Compile Include="Controllers\RootController.cs" />
     <Compile Include="Controllers\NewsHTMLController.cs" />
@@ -179,6 +181,9 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Content Include="Global.asax" />
+    <Content Include="res\images\201212041112_zoom[1].jpg" />
+    <Content Include="res\images\P1020286NB.400_300.png" />
+    <Content Include="res\images\P1020286NB.600_450.png" />
     <Content Include="res\images\painting1.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -252,7 +257,13 @@
     <Content Include="Views\NewsHTML\DeleteConfirmation.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\NewsHTML\Login.cshtml" />
+    <Content Include="Views\Login\Login.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Biographie\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Login\Logout.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

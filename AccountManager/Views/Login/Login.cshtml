@@ -1,14 +1,14 @@
 ﻿@model AccountManager.Models.RazorContext
 
 @{
-    ViewBag.Title = "News edit";
+    ViewBag.Title = "Login Page";
     Layout = "~/Views/Shared/_DialogLayout.cshtml";
 }
 
 <div data-role="header">
 	<h1>Login</h1>
 </div>
-<form action="/newshtml/logincmd" method="post">
+<form action="/login/LoginCmd" method="post">
 
     <div data-role="fieldcontain" class="ui-hide-label">
 	    <label for="user">User:</label>
@@ -20,7 +20,7 @@
 	    <input type="text" name="password" id="password" value="" placeholder="password" class="required"/>
     </div>
 
-    <a href="/newshtml/index" data-role="button" data-mini="true" data-inline="true">Cancel</a>   
+    <a href="#" data-rel="back" data-role="button" data-mini="true" data-inline="true">Cancel no ref</a>
     <button type="submit">Login</button>
 </form>
 <div data-role="footer">

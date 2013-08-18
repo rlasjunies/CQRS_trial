@@ -64,3 +64,26 @@ C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\
 C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\obj\Debug\Formatter.csprojResolveAssemblyReference.cache
 C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\obj\Debug\Formatter.exe
 C:\Users\Richard\Documents\Visual Studio 2012\Projects\AccountManager\Formatter\obj\Debug\Formatter.pdb
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\res\images\painting1.jpg
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\Formatter.exe.config
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\Formatter.exe
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\Formatter.pdb
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\AccountManager.dll
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\AccountManager.Tests.dll
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\nunit.framework.dll
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\System.Data.SQLite.dll
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\Newtonsoft.Json.dll
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\System.Web.Http.dll
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\System.Web.Http.WebHost.dll
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\System.Net.Http.Formatting.dll
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\AccountManager.Tests.pdb
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\AccountManager.pdb
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\nunit.framework.xml
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\System.Data.SQLite.pdb
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\Newtonsoft.Json.xml
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\System.Web.Http.xml
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\System.Web.Http.WebHost.xml
+D:\My\Documents\GitHub\CQRS_trial\Formatter\bin\Debug\System.Net.Http.Formatting.xml
+D:\My\Documents\GitHub\CQRS_trial\Formatter\obj\Debug\Formatter.csprojResolveAssemblyReference.cache
+D:\My\Documents\GitHub\CQRS_trial\Formatter\obj\Debug\Formatter.exe
+D:\My\Documents\GitHub\CQRS_trial\Formatter\obj\Debug\Formatter.pdb

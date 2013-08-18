@@ -6,6 +6,24 @@
 
 <div data-role="content">
 	<ul data-role="listview" data-filter="true" data-split-icon="gear" data-inset="true">
+        @if (@Model.logged)
+      {		
+            <div role="navigation" class="ui-navbar ui-navbar-noicons" data-role="navbar">
+                <ul class="ui-grid-b">
+                    <li class="ui-block-a"><a class="ui-btn ui-btn-up-a" data-theme="a" href="/newshtml/CreateNews" data-rel="dialog"><span class="ui-btn-inner"><span class="ui-btn-text">Add</span></span></a></li>
+                    <!--<li class="ui-block-b"><a class="ui-btn ui-btn-up-a" data-theme="a" href="#"><span class="ui-btn-inner"><span class="ui-btn-text">Two</span></span></a></li>
+				            <li class="ui-block-c"><a class="ui-btn ui-btn-up-a" data-theme="a" href="#"><span class="ui-btn-inner"><span class="ui-btn-text">Three</span></span></a></li>
+                            <li class="ui-block-c"><a class="ui-btn ui-btn-up-a" data-theme="a" href="#"><span class="ui-btn-inner"><span class="ui-btn-text">Four</span></span></a></li>
+                            <li class="ui-block-c"><a class="ui-btn ui-btn-up-a" data-theme="a" href="#"><span class="ui-btn-inner"><span class="ui-btn-text">Five</span></span></a></li>-->
+                </ul>
+            </div>
+            <!-- /navbar -->
+      }
+      else
+      {
+          //nothing
+      }
+
         @foreach (var m in Model.NewsModels)
         {
             <li>
@@ -15,8 +33,7 @@
                     <h1>@m.Title</h1>
                     <p>@m.Summary</p>
                 </a>
-                <a href="/newshtml/actions/@m.Id" data-rel="dialog" data-transition="pop">options</a>
-                    
+                <a href="/newshtml/actions/@m.Id" data-rel="dialog" data-transition="pop">options</a>   
             </li>
         }
 	</ul>

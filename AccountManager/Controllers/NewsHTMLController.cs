@@ -49,6 +49,11 @@ namespace AccountManager.Controllers
             return this.Index();
         }
 
+        public ActionResult Biographie()
+        {
+            return View("Biographie", Configuration.Context());
+        }
+
         public ActionResult Actions(Guid @id)
         {
             var news = Configuration.Instance().NewsReadModel.News.First(x => x.Id == @id);

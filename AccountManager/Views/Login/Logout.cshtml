@@ -1,0 +1,15 @@
+﻿@model AccountManager.Models.RazorContext
+
+@{
+    ViewBag.Title = "Login Page";
+    Layout = "~/Views/Shared/_DialogLayout.cshtml";
+}
+
+<div data-role="header">
+	<h1>Logout</h1>
+</div>
+<form action="/login/LogoutCmd" method="post">
+    <h1> Voulez-vous vous délogguer?</h1>
+    <a href="/newshtml/index" data-role="button" data-mini="true" data-inline="true">Cancel</a>   
+    <button type="submit">Logout</button>
+</form>
